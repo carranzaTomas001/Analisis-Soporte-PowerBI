@@ -9,7 +9,7 @@ Este proyecto simula el análisis de calidad y tiempos de respuesta de un equipo
 * **Excel/CSV:** Fuente de datos original.
 
 ## 📊 Vista Previa del Dashboard
-![Vista Previa](dashboard_preview.png)
+![Vista Previa](ssPowerBI.jpg)
 
 ## 🚀 Cómo ver el archivo interactivo
 1. Descarga el archivo `soportePortf.pbix` de este repositorio.
