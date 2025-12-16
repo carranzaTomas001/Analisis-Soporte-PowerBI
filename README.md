@@ -12,5 +12,5 @@ Este proyecto simula el análisis de calidad y tiempos de respuesta de un equipo
 ![Vista Previa](dashboard_preview.png)
 
 ## 🚀 Cómo ver el archivo interactivo
-1. Descarga el archivo `nombre_de_tu_archivo.pbix` de este repositorio.
+1. Descarga el archivo `soportePortf.pbix` de este repositorio.
 2. Ábrelo con Power BI Desktop.
